@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background: #f0e6e6;
+}
+body{
+    
+    & .nav-bar{
+        display: flex;
+        flex-direction: row;
+    }
+}
